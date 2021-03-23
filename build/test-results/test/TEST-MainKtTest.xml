@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-03-23T21:55:17" hostname="LENOVO" time="0.195">
+  <properties/>
+  <testcase name="getCommission_forVkPayOwner" classname="MainKtTest" time="0.043"/>
+  <testcase name="getCommission_forMasterCardOrMaestroOwner_lowMonthTransferLevel" classname="MainKtTest" time="0.004"/>
+  <testcase name="getCommission_forVisaOwner" classname="MainKtTest" time="0.002"/>
+  <testcase name="getCommission_forMasterCardOrMaestroOwner_highMonthTransferLevel" classname="MainKtTest" time="0.006"/>
+  <testcase name="getCommission_forMirOwner" classname="MainKtTest" time="0.071"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

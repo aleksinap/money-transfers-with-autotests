@@ -7,7 +7,7 @@ class MainKtTest{
         val typeOfCard = "Maestro"
         val monthTransfers = 46_799_000
         val transfer = 350_000
-        val expected = 4_100
+        val expected = 6_100
 
         val result = getCommission(
             typeOfCard = typeOfCard,
